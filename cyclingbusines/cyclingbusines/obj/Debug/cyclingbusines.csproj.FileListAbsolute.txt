@@ -1,0 +1,24 @@
+C:\Users\Calvin Lee\Desktop\experiment\cyclingbusines\cyclingbusines\bin\Debug\cyclingbusines.exe.config
+C:\Users\Calvin Lee\Desktop\experiment\cyclingbusines\cyclingbusines\bin\Debug\cyclingbusines.exe
+C:\Users\Calvin Lee\Desktop\experiment\cyclingbusines\cyclingbusines\bin\Debug\cyclingbusines.pdb
+C:\Users\Calvin Lee\Desktop\experiment\cyclingbusines\cyclingbusines\obj\Debug\cyclingbusines.csproj.AssemblyReference.cache
+C:\Users\Calvin Lee\Desktop\experiment\cyclingbusines\cyclingbusines\obj\Debug\cyclingbusines.FrmRegister.resources
+C:\Users\Calvin Lee\Desktop\experiment\cyclingbusines\cyclingbusines\obj\Debug\cyclingbusines.log.resources
+C:\Users\Calvin Lee\Desktop\experiment\cyclingbusines\cyclingbusines\obj\Debug\cyclingbusines.login.resources
+C:\Users\Calvin Lee\Desktop\experiment\cyclingbusines\cyclingbusines\obj\Debug\cyclingbusines.Properties.Resources.resources
+C:\Users\Calvin Lee\Desktop\experiment\cyclingbusines\cyclingbusines\obj\Debug\cyclingbusines.csproj.GenerateResource.cache
+C:\Users\Calvin Lee\Desktop\experiment\cyclingbusines\cyclingbusines\obj\Debug\cyclingbusines.csproj.CoreCompileInputs.cache
+C:\Users\Calvin Lee\Desktop\experiment\cyclingbusines\cyclingbusines\obj\Debug\cyclingbusines.exe
+C:\Users\Calvin Lee\Desktop\experiment\cyclingbusines\cyclingbusines\obj\Debug\cyclingbusines.pdb
+C:\Users\Calvin Lee\Desktop\C# code\experiment\cyclingbusines\cyclingbusines\bin\Debug\cyclingbusines.exe.config
+C:\Users\Calvin Lee\Desktop\C# code\experiment\cyclingbusines\cyclingbusines\bin\Debug\cyclingbusines.exe
+C:\Users\Calvin Lee\Desktop\C# code\experiment\cyclingbusines\cyclingbusines\bin\Debug\cyclingbusines.pdb
+C:\Users\Calvin Lee\Desktop\C# code\experiment\cyclingbusines\cyclingbusines\obj\Debug\cyclingbusines.csproj.AssemblyReference.cache
+C:\Users\Calvin Lee\Desktop\C# code\experiment\cyclingbusines\cyclingbusines\obj\Debug\cyclingbusines.FrmRegister.resources
+C:\Users\Calvin Lee\Desktop\C# code\experiment\cyclingbusines\cyclingbusines\obj\Debug\cyclingbusines.log.resources
+C:\Users\Calvin Lee\Desktop\C# code\experiment\cyclingbusines\cyclingbusines\obj\Debug\cyclingbusines.login.resources
+C:\Users\Calvin Lee\Desktop\C# code\experiment\cyclingbusines\cyclingbusines\obj\Debug\cyclingbusines.Properties.Resources.resources
+C:\Users\Calvin Lee\Desktop\C# code\experiment\cyclingbusines\cyclingbusines\obj\Debug\cyclingbusines.csproj.GenerateResource.cache
+C:\Users\Calvin Lee\Desktop\C# code\experiment\cyclingbusines\cyclingbusines\obj\Debug\cyclingbusines.csproj.CoreCompileInputs.cache
+C:\Users\Calvin Lee\Desktop\C# code\experiment\cyclingbusines\cyclingbusines\obj\Debug\cyclingbusines.exe
+C:\Users\Calvin Lee\Desktop\C# code\experiment\cyclingbusines\cyclingbusines\obj\Debug\cyclingbusines.pdb
